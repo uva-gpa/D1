@@ -17,6 +17,8 @@ In the case of RMS, an additional dataset (**“1_RMS_validation_C2.csv”**) is
 
 The execution of these notebooks had been carried out through Google Colab, though the actual uploaded version have been modified in order to allow its local execution.
 
+Furthermore, when uploading files to GitHub, there was a restriction preventing the upload of files larger than 25 MB. Consequently, the data files for steps 2 (600 s) and 3 (60 s), which exceeded this limit, were compressed into the file *Large_files.zip*.
+
 ---
 
 ## Variables
